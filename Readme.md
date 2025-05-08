@@ -107,7 +107,7 @@ Nearest Neighbors: 74.20%
 
 ## 👨‍💻 Autor
 
-**Seu Nome**  
+**Gabriel Chaves**  
 📧 gabrielbsc0720@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/gabriel-borges-ch)
 
